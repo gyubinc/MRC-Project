@@ -1,7 +1,3 @@
-# MRC Wrap-Up Report
-
-### Team : 자만추 (NLP-01)
-
 # 1. 프로젝트  개요
 
 ### A. 프로젝트 주제
